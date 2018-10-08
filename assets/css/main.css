@@ -2239,8 +2239,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #181a1a;
-				background-image: url("../../images/Kobold_BG2.png");
+				background-color: #000000;
+				background-image: url("../../images/asdf.png"); /*this image doesn't exist, video won't load without a background-image??? */
 			}
 
 			#main > section.two {
@@ -2614,4 +2614,10 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+	}
+
+	/*custom css */
+	#video{
+		width:105%;
+		height:105%;
 	}
